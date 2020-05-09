@@ -1,0 +1,68 @@
+PODS:
+  - CNPPopupController (0.3.2)
+  - Firebase/AdMob (3.10.0):
+    - Firebase/Core
+    - Google-Mobile-Ads-SDK (= 7.15.0)
+  - Firebase/Core (3.10.0):
+    - FirebaseAnalytics (= 3.6.0)
+    - FirebaseCore (= 3.4.5)
+  - FirebaseAnalytics (3.6.0):
+    - FirebaseCore (~> 3.4)
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleSymbolUtilities (~> 1.1)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseCore (3.4.5):
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+  - FirebaseInstanceID (1.0.8)
+  - GCDWebServer (3.0):
+    - GCDWebServer/Core (= 3.0)
+  - GCDWebServer/Core (3.0)
+  - Google-Mobile-Ads-SDK (7.15.0)
+  - GoogleInterchangeUtilities (1.2.2):
+    - GoogleSymbolUtilities (~> 1.1)
+  - GoogleSymbolUtilities (1.1.2)
+  - GoogleToolboxForMac/Defines (2.1.0)
+  - GoogleToolboxForMac/NSData+zlib (2.1.0):
+    - GoogleToolboxForMac/Defines (= 2.1.0)
+  - JGProgressHUD (1.4)
+  - R.swift (2.5.0):
+    - R.swift.Library (~> 2.3.0)
+  - R.swift.Library (2.3.0)
+  - SwiftyJSON (2.3.2)
+  - SwiftyStoreKit (0.3.0)
+  - TextAttributes (0.3.1)
+
+DEPENDENCIES:
+  - CNPPopupController (= 0.3.2)
+  - Firebase/AdMob
+  - Firebase/Core
+  - GCDWebServer (= 3.0)
+  - JGProgressHUD
+  - R.swift (= 2.5.0)
+  - SwiftyJSON (= 2.3.2)
+  - SwiftyStoreKit (= 0.3.0)
+  - TextAttributes (= 0.3.1)
+
+SPEC CHECKSUMS:
+  CNPPopupController: 359b331f0e164f1af1f3a9193aac10a820d0039e
+  Firebase: 387f37c7dca894a02708da9ff35ba147040eae9e
+  FirebaseAnalytics: 9c67af0ebeb8d2146c9b4ea2616439affa947b58
+  FirebaseCore: 1e383fdfe37b6b5d6ff88e84204bdee30276af0f
+  FirebaseInstanceID: ba1e640935235e5fac39dfa816fe7660e72e1a8a
+  GCDWebServer: 6b414efadd88124f40170513afac08e94e9a9f56
+  Google-Mobile-Ads-SDK: 75d41dfcf06f7666ab211573d212768b0f766c5d
+  GoogleInterchangeUtilities: d5bc4d88d5b661ab72f9d70c58d02ca8c27ad1f7
+  GoogleSymbolUtilities: 631ee17048aa5e9ab133470d768ea997a5ef9b96
+  GoogleToolboxForMac: 2b2596cbb7186865e98cadf2b1e262d851c2b168
+  JGProgressHUD: 1617b0940cf80bb53e8f7d6f0fd69252ea45d6d4
+  R.swift: 01b9966e8dbe587a11ca2f65a1834dac2fa7b247
+  R.swift.Library: 75df6abfd22492c852136c4d7b6a9ca21664772a
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  SwiftyStoreKit: 6df86a58380d591d06f204eaee92bfaf39704627
+  TextAttributes: b43233c6356a72f1c1e483d5bda694535432a4be
+
+PODFILE CHECKSUM: 75b32c123ef75c76b30fffdcc6b3685fe6a037b3
+
+COCOAPODS: 1.1.1

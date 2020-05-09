@@ -1,0 +1,16 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+
+use_frameworks!
+
+target 'StreamBeam' do
+pod 'TextAttributes', '0.3.1'
+pod 'SwiftyJSON', '2.3.2'
+pod 'JGProgressHUD'
+pod 'SwiftyStoreKit', '0.3.0'
+pod "GCDWebServer", '3.0'
+pod 'CNPPopupController', '0.3.2'
+pod 'R.swift', '2.5.0'
+pod 'Firebase/Core'
+pod 'Firebase/AdMob'
+end

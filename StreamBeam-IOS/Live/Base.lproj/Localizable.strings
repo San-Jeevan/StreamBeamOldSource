@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Babymonitor
+
+  Created by Jeevan Sivagnanasuntharam on 14/09/16.
+  Copyright © 2016 gressquel. All rights reserved.
+*/
+
+settings.WriteyourMessage = "Write your message";
+settings.AboutUs = "Babycall Wifi \nThe app is currently only for iOS but Android version is currently not on plan but if there is a significant demand, plans may change, so please use the contact us form to send feedback!";
+
+//GENERAL
+general.Error = "Error";
+general.Quit = "Quit";
+general.Done = "Done";
+general.Cancel = "Cancel";
+general.Lowpowermode = "Your phone is in low power mode, which turns off the phones screen automatically. Audio and video functionality will not work if screen is turned off. Please turn off low power mode.";
+general.Lowpowermodechange = "Change settings";
+
+
+audience.Quitmessage = "Are you sure you want to exit the entire session? If you only want to exit the camera-view, press the camera button instead.";
+audience.Goback = "Go back";
+audience.QuitSession = "Exit session";
+
+liveoverlay.Noisedetected = "Noise detected (%f)";
+liveoverlay.Babysleep = "SLEEPING...";
+liveoverlay.Babyawake = "AWAKE...";
+liveoverlay.Babydisconnect = "Babydevice disconnected!";
+liveoverlay.ToastStartingVideo = "Starting video, it may take few seconds";
+liveoverlay.Disconnect = "Lost internet connection!";
+liveoverlay.Connected = "Connected";
+
+//SERVER
+server.MALFORMED_REQUEST = "Malformed request, please update app";
+server.SESSION_NOT_FOUND = "Could not find session with code, make sure the babydevice is turned on";
+server.NEARBY_NOT_FOUND= "No nearby stations located, you must be on same WIFI";
+
+
+broadcaster.SilenceMode = "Do not forget to turn on night mode AND set it to be always silenced. Otherwise incoming calls may disturb your baby.";

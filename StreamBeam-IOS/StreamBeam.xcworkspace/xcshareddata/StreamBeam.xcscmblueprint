@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "17EE365EDCA6EC841E1FB296B6CB2D282569D8ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "75793EFA09A162BA4F1A17844A987CDF3B180B54" : 0,
+    "11E76B4A8B249084BFAB339B1C0AB3F9B9875C19" : 0,
+    "17EE365EDCA6EC841E1FB296B6CB2D282569D8ED" : 0,
+    "EC433DA33D9DD3B2D237C35005DC1E035C23B88C" : 0,
+    "17F782690A81D001A6DE548E24007364647BAAA3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "33513BE9-D579-490E-9542-D4EC83052C62",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "75793EFA09A162BA4F1A17844A987CDF3B180B54" : "StreamBeam\/Connect-SDK-iOS\/",
+    "11E76B4A8B249084BFAB339B1C0AB3F9B9875C19" : "StreamBeam\/Connect-SDK-iOS\/core\/",
+    "17EE365EDCA6EC841E1FB296B6CB2D282569D8ED" : "StreamBeam\/",
+    "EC433DA33D9DD3B2D237C35005DC1E035C23B88C" : "StreamBeam\/Connect-SDK-iOS\/modules\/firetv\/",
+    "17F782690A81D001A6DE548E24007364647BAAA3" : "StreamBeam\/Connect-SDK-iOS\/modules\/google-cast\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StreamBeam",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StreamBeam-IOS\/StreamBeam.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS-Core.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11E76B4A8B249084BFAB339B1C0AB3F9B9875C19"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/San-Jeevan\/StreamBeam.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17EE365EDCA6EC841E1FB296B6CB2D282569D8ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS-Google-Cast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17F782690A81D001A6DE548E24007364647BAAA3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75793EFA09A162BA4F1A17844A987CDF3B180B54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ConnectSDK\/Connect-SDK-iOS-FireTV.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC433DA33D9DD3B2D237C35005DC1E035C23B88C"
+    }
+  ]
+}
